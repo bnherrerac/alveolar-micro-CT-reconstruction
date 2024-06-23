@@ -1,2 +1,2 @@
-# alveolar-micro-CT-superresolution
- Image superresolution for alveolar micro-CT images.
+# alveolar-micro-CT-reconstruction
+Alveolar micro-CT image reconstruction using different algorithms.

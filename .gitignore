@@ -131,3 +131,5 @@ dmypy.json
 # custom
 PS2_B2_CT_images_raw/
 24_05_2024_P2_B3_CT_MEDIO_3um/
+articles/
+manual_finding/
